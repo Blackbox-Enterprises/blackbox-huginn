@@ -153,3 +153,22 @@ Huginn is provided under the MIT License.
 Huginn was originally created by [@cantino](https://github.com/cantino) in 2013. Since then, many people's dedicated contributions have made it what it is today.
 
 [![Build Status](https://travis-ci.org/huginn/huginn.svg)](https://travis-ci.org/huginn/huginn) [![Coverage Status](https://coveralls.io/repos/huginn/huginn/badge.svg)](https://coveralls.io/r/huginn/huginn) [![Dependency Status](https://gemnasium.com/huginn/huginn.svg)](https://gemnasium.com/huginn/huginn) [![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=282580)](https://www.bountysource.com/trackers/282580-huginn?utm_source=282580&utm_medium=shield&utm_campaign=TRACKER_BADGE)
+
+---
+
+## 📜 License & Copyright
+
+**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
+
+**CEO:** Alexa Amundson | **PROPRIETARY AND CONFIDENTIAL**
+
+This software is NOT for commercial resale. Testing purposes only.
+
+### 🏢 Enterprise Scale:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- CEO: Alexa Amundson
+
+**Contact:** blackroad.systems@gmail.com
+
+See [LICENSE](LICENSE) for complete terms.
